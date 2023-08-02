@@ -41,6 +41,7 @@
     {"id":{"name":"Demon","path":"sprites/Demon/Demon.yy",},},
     {"id":{"name":"Mother_Dragon","path":"sprites/Mother_Dragon/Mother_Dragon.yy",},},
     {"id":{"name":"Baby_dragon","path":"sprites/Baby_dragon/Baby_dragon.yy",},},
+    {"id":{"name":"obj_demon","path":"objects/obj_demon/obj_demon.yy",},},
     {"id":{"name":"Boss","path":"sprites/Boss/Boss.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
