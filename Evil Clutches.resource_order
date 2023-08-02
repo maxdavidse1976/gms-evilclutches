@@ -16,5 +16,10 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Fireball","order":4,"path":"sprites/Fireball/Fireball.yy",},
+    {"name":"Demon","order":2,"path":"sprites/Demon/Demon.yy",},
+    {"name":"Baby_dragon","order":3,"path":"sprites/Baby_dragon/Baby_dragon.yy",},
+    {"name":"Boss","order":1,"path":"sprites/Boss/Boss.yy",},
+  ],
 }
