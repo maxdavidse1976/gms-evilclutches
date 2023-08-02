@@ -17,6 +17,7 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_boss","order":1,"path":"objects/obj_boss/obj_boss.yy",},
     {"name":"Fireball","order":4,"path":"sprites/Fireball/Fireball.yy",},
     {"name":"Demon","order":2,"path":"sprites/Demon/Demon.yy",},
     {"name":"Baby_dragon","order":3,"path":"sprites/Baby_dragon/Baby_dragon.yy",},

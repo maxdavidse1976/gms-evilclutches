@@ -34,6 +34,7 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"obj_boss","path":"objects/obj_boss/obj_boss.yy",},},
     {"id":{"name":"Fireball","path":"sprites/Fireball/Fireball.yy",},},
     {"id":{"name":"obj_dragon","path":"objects/obj_dragon/obj_dragon.yy",},},
     {"id":{"name":"Demon","path":"sprites/Demon/Demon.yy",},},
