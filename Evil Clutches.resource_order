@@ -20,6 +20,7 @@
     {"name":"obj_boss","order":1,"path":"objects/obj_boss/obj_boss.yy",},
     {"name":"Fireball","order":4,"path":"sprites/Fireball/Fireball.yy",},
     {"name":"obj_fireball","order":2,"path":"objects/obj_fireball/obj_fireball.yy",},
+    {"name":"obj_baby","order":4,"path":"objects/obj_baby/obj_baby.yy",},
     {"name":"Demon","order":2,"path":"sprites/Demon/Demon.yy",},
     {"name":"Baby_dragon","order":3,"path":"sprites/Baby_dragon/Baby_dragon.yy",},
     {"name":"obj_demon","order":3,"path":"objects/obj_demon/obj_demon.yy",},
