@@ -37,6 +37,7 @@
     {"id":{"name":"obj_boss","path":"objects/obj_boss/obj_boss.yy",},},
     {"id":{"name":"Fireball","path":"sprites/Fireball/Fireball.yy",},},
     {"id":{"name":"obj_dragon","path":"objects/obj_dragon/obj_dragon.yy",},},
+    {"id":{"name":"Background","path":"sprites/Background/Background.yy",},},
     {"id":{"name":"obj_fireball","path":"objects/obj_fireball/obj_fireball.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"obj_baby","path":"objects/obj_baby/obj_baby.yy",},},
@@ -44,11 +45,12 @@
     {"id":{"name":"Mother_Dragon","path":"sprites/Mother_Dragon/Mother_Dragon.yy",},},
     {"id":{"name":"Baby_dragon","path":"sprites/Baby_dragon/Baby_dragon.yy",},},
     {"id":{"name":"obj_demon","path":"objects/obj_demon/obj_demon.yy",},},
+    {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
     {"id":{"name":"Boss","path":"sprites/Boss/Boss.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"The_Cave","path":"rooms/The_Cave/The_Cave.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"The_Cave","path":"rooms/The_Cave/The_Cave.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
